@@ -1,4 +1,4 @@
 # Hand-grasp-Classification-using-EMG
 
 
-Use the below link for detailed notes on project walk-through.
+Read the report for the complete understanding of the above Project. and look `extra` folder for other AI,ML implementations. 
